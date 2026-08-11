@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hernaval.github.io/resources-6py6x1/sitemap.xml
